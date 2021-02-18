@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weka-3-8-0-monolithic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../weka-3-8-0-monolithic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

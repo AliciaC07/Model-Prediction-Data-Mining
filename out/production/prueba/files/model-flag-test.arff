@@ -1,0 +1,9 @@
+@relation flags
+
+@attribute landmass {1,2,3,4,5,6}
+@attribute zone {1,2,3,4}
+@attribute language {1,2,3,4,5,6,7,8,9,10}
+@attribute crosses {0,1,2}
+@attribute sunstars {0,1,2,3,4,5,6,7,9,10,14,15,22,50}
+
+@data
